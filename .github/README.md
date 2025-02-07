@@ -1,7 +1,7 @@
 <h1 align="center">˹ 𝐌ᴀʜɪ ꭙ 𝐌ᴜsɪᴄ˼</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/fvqu0q.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="https://files.catbox.moe/fvqu0q.jpg" alt="Aviax Music Logo" width="600" height="200">
 </p>
 
 <p align="center">
