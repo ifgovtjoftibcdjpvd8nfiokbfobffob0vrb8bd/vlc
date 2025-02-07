@@ -1,4 +1,4 @@
-<h1 align="center">˹ 𝐌ᴀʜɪ ꭙ 𝐌ᴜsɪᴄ˼𓆩𔘓⃭𓆪</h1>
+<h align="center">˹ 𝐌ᴀʜɪ ꭙ 𝐌ᴜsɪᴄ˼</h>
 
 <p align="center">
   <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
