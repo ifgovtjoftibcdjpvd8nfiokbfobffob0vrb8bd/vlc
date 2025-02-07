@@ -28,36 +28,7 @@ from strings import get_string
 
 
 YUMI_PICS = [
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-"https://files.catbox.moe/9gpacm.jpg",
-
+"https://files.catbox.moe/fvqu0q.jpg"
 ]
 
 
