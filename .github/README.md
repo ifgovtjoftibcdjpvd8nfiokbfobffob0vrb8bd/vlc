@@ -92,7 +92,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 
 ### 🛠 Commands & Usage
 
-The Aviax Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Mahi Music offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -109,7 +109,7 @@ For a full list of commands, use `/help` in [telegram](https://t.me/riya_network
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Aviax Music Bot:
+Stay updated with the latest features and improvements to Mahi Music:
 
 <p align="center">
   <a href="https://telegram.me/Riya_network">
@@ -145,5 +145,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
-- [Yukki Music](https://github.com/TeamRiyamusic/riya_music) and [Riya Music](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
+- [T-Series](https://github.com/TeamRiyamusic/riya_music) and [Riya Music](https://github.com/TeamRiyamusic/riya_music)) For their Source Codes.
 - **Special Thanks** to [𝖧𝗎𝗇𝗍𝖾𝗋 𝖷𝖣](https://github.com/Teamriyamusic) for invaluable assistance in resolving the IP ban issue.
